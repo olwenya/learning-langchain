@@ -12,6 +12,7 @@ python-dotenv = "*"
 ipykernel = "*"
 beautifulsoup4 = "*"
 langchain-postgres = "*"
+langgraph = "*"
 
 [dev-packages]
 
